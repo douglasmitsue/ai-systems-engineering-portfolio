@@ -180,7 +180,7 @@ Python | C++ | PyTorch | TensorFlow | OpenCV | HuggingFace | LangChain | Chroma 
 
 ---
 
-# Douglas Anderson Nunes Mitsue
+# Douglas Mitsue
 
 AI Systems & Data Architecture Engineer  
 Building scalable AI systems and modern data platforms.
