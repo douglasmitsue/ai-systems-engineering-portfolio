@@ -12,6 +12,14 @@ Designing and building scalable Artificial Intelligence systems — from foundat
 This repository showcases production-oriented AI systems across Deep Learning, Computer Vision, Generative AI, and AI-driven Financial Engineering.
 
 ---
+# Status deste repositório
+
+| Curso | Status |
+|--------|--------|
+| Transformer & LLM From Scratch (Python & C++) | 🚧 Em andamento |
+| Retrieval-Augmented Generation (RAG) System | ⏳ Planejado |
+| Real-Time Computer Vision System | ⏳ Planejado |
+| AI Financial Engineering & Trading System | ⏳ Planejado |
 
 # Flagship Projects
 
