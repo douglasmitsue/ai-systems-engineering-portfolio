@@ -14,7 +14,7 @@ This repository showcases production-oriented AI systems across Deep Learning, C
 ---
 # Status deste repositório
 
-| Curso | Status |
+| Projetos | Status |
 |--------|--------|
 | Transformer & LLM From Scratch (Python & C++) | 🚧 Em andamento |
 | Retrieval-Augmented Generation (RAG) System | ⏳ Planejado |
